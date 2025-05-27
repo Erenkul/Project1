@@ -1,2 +1,2 @@
 # Project1
-Coffee machine
+A coffee machine
